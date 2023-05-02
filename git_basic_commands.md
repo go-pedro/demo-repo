@@ -9,3 +9,6 @@
    1. **git branch** # see branch(s) existing
    2. **git checkout -b name of feature** # create a new branch
    3.  **git checkout name of feature** #switch between branch
+
+## Terms
+![terms image](terms.png "terms image")
