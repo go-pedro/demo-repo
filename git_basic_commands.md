@@ -11,7 +11,16 @@
    3.  **git checkout name of feature** #switch between branch
 
 ## Terms
-![terms image](https://github.com/go-pedro/demo-repo/blob/30b0d5ded28700b553ac27f99f23532c57d32d7c/terms.PNG "terms image")
+<!-- ![terms image](https://github.com/go-pedro/demo-repo/blob/30b0d5ded28700b553ac27f99f23532c57d32d7c/terms.PNG "terms image") -->
+
+1. Directory: Folder
+2. Terminal or Command line: Interface for text commands
+3. CLI: Command Line Interface
+4. cd: Change directory
+5. Code Editor: Word Processor for Writing
+6. Repository: Project or Folder/Place where your project is kept
+7. Github: A website to host your repository online
+
 
 ## Terminal commands
 1. ls -la
