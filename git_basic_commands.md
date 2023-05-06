@@ -23,4 +23,4 @@
 
 
 ## Terminal commands
-1. ls -la
+1. ls -la: list all files in a folder including hidden files
