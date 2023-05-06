@@ -14,4 +14,4 @@
 ![terms image](https://github.com/go-pedro/demo-repo/blob/30b0d5ded28700b553ac27f99f23532c57d32d7c/terms.PNG "terms image")
 
 ## Terminal commands
-1. ls -a
+1. ls -la
